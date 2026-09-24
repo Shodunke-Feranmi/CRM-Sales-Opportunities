@@ -101,7 +101,7 @@ Sales leadership needs to know which accounts, products, and regions actually dr
  
 ![CRM Overview](https://github.com/Shodunke-Feranmi/CRM-Sales-Opportunities/blob/main/CRM%20overview%20Dashboard.png)
 ![CRM Account Analysis](https://github.com/Shodunke-Feranmi/CRM-Sales-Opportunities/blob/main/CRM%20Account%20analysis%20Dashboard.png)
-![CRM Product Analysis](images/CRM_Product_analysis_dashboard.png)
+![CRM Product Analysis](https://github.com/Shodunke-Feranmi/CRM-Sales-Opportunities/blob/main/CRM%20Product%20analysis%20dashboard.png)
 ![CRM Sales Analysis](images/CRM_Sales_Analysis.png)
 ![CRM Sales Team Analysis](images/CRM_sales_Team_analysis_Dashboard.png)
  
